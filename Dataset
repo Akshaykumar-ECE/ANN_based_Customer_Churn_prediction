@@ -1,0 +1,24 @@
+This project uses the [Telco Customer Churn Dataset]
+(https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+the classes are 
+gender  
+SeniorCitizen  
+Partner  
+Dependents  
+tenure  
+PhoneService  
+MultipleLines  
+InternetService  
+OnlineSecurity  
+OnlineBackup  
+DeviceProtection  
+TechSupport  
+StreamingTV  
+StreamingMovies  
+Contract  
+PaperlessBilling  
+PaymentMethod  
+MonthlyCharges  
+TotalCharges  
+Churn  
